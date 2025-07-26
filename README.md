@@ -2,7 +2,7 @@
 
 **Security-Focused IT & Cybersecurity Professional**  
 Poinciana, Florida (Open to Remote Opportunities)  
-📧 daphnie.bruno@icloud.com • 📱 (689) 263-4975  
+📧 daphnie.bruno@icloud.com 
 [LinkedIn](https://www.linkedin.com/in/bruno-daphnie) | [GitHub](https://github.com/OmniaParatus3288)
 
 ---
