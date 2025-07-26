@@ -9,7 +9,7 @@ Poinciana, Florida (Open to Remote Opportunities)
 
 ## 🎯 Objective 🖤
 
-This GitHub is my digital playground — a living portfolio of how I’m growing as a cybersecurity professional. With over a decade of IT experience and a current focus on cyber threat analysis, compliance, and operational resilience, I’m using hands-on labs, frameworks, and research to deepen my capabilities and bridge business with security.
+This GitHub is my digital playground. A living portfolio of how I’m growing as a cybersecurity professional. With over a decade of IT experience and a current focus on cyber threat analysis, compliance, and operational resilience, I’m using hands-on labs, frameworks, and research to deepen my capabilities and bridge business with security.
 
 ---
 
