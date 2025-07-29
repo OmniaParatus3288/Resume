@@ -99,7 +99,7 @@ Multifaceted and security-driven, I bring experience across workforce analytics,
 
 ## 🏆 Certifications & Affiliations
 
-- Google Cybersecurity Certificate (In Progress)  
+- Google Cybersecurity Certificate - Completed July-2025  
 - Studying for CompTIA Security+  
 - National Society of Collegiate Scholars (NSCS) – Mar 2024  
 - Women in CyberSecurity (WiCyS) – Jul 2024  
@@ -129,7 +129,7 @@ Multifaceted and security-driven, I bring experience across workforce analytics,
 
 ## 🚀 Goals
 
-- Complete the Google Cybersecurity Certificate and earn the CompTIA Security+.  
+- Complete Junior Cyber Security & Penetration Tester Pathway in HTB.
 - Continue developing my Home Lab and participate in CTFs and cybersecurity competitions.  
 - Expand my skills in threat hunting, cloud security, and incident response.
 
